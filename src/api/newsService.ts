@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const NEWS_API_KEY = "b1745c6c0aa44d569dfefbf4ef6ca0ae"
+const NEWS_API_KEY = "b1745c6c0aa44d569dfefbf4ef6ca0ae" // for now the api key is hardcoded, but it will be stored in a secure backend in the production environment.
 
 const NEWS_API_URL = 'https://newsapi.org/v2/everything';
 
